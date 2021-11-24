@@ -80,5 +80,5 @@ class SortedList {
   
 };
 
-const object=new SortedList();
+
 module.exports = SortedList;
